@@ -6,11 +6,11 @@ public static void main(String args[])
 {
 int n;
 Scanner sc=new Scanner(System.in);
-int n=sc.nextInt();
+ n=sc.nextInt();
 if(n%2==0)
-System.out.println(+n "is EVEN");
+System.out.println(n+ "is EVEN");
 else
-System.out.println(+n "is ODD");
+System.out.println(n+ "is ODD");
 }
 }
 
