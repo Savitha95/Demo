@@ -8,10 +8,10 @@ int n;
 Scanner sc=new Scanner(System.in);
 n=sc.nextInt();
 if(n==0)
-System.out.println("ZERO");
-else if(n<0)
-System.out.println("NEGATIVE");
+System.out.println(n+ "is ZERO");
+else if(n>0)
+System.out.println(n+ "is POSITIVE");
 else
-System.out.println("POSITIVE");
+System.out.println(n+ "is NEGATIVE");
 }
 }
