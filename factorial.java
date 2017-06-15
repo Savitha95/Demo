@@ -14,6 +14,7 @@ factorial=(factorial*i);
 }
 System.out.println("factorial number is" +factorial);
 }
+}
 
 
 
