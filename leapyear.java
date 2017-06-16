@@ -10,6 +10,6 @@ n=sc.nextInt();
 if(n/4)
 System.out.println(leap year);
 else
-System.out.println(not a leap year)
+System.out.println(not a leap year);
 }
 }
