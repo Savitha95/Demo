@@ -9,7 +9,7 @@ Scanner sc=new Scanner(System.in);
 n=sc.nextInt();
 for(int i=0;i<n;i++)
 {
-System.out.println("hello");
+System.out.println("Hello");
 }
 }
 }
